@@ -1,1 +1,1 @@
-A docker version of php-fpm 735 on Alpine 3.7
+A docker version of php-fpm 7.1 onthe OS Alpine 3.7
